@@ -48,22 +48,6 @@ function goButton()
         window.location.href ="file:///C:/html/html%20project/project%201/index.html";
 }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 function theme1()
 {
     window.location.href="file:///C:/html/it%20project%20theme1.html";
